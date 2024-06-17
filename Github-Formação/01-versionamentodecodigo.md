@@ -134,3 +134,5 @@ Git é um sistema de controle de versão distribuído, essencial para gerenciar 
       ```
 
 Este guia oferece uma visão concisa e avançada dos comandos e configurações mais comuns no Git e GitHub, permitindo uma gestão eficiente do versionamento de código.
+
+
